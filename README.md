@@ -56,9 +56,10 @@ END
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
-
+| 1200h                   |1204h                     |
+|      1201h              |1205h                     |
+|      1202h              |1206h                     |
+|      1203h              | -                        |
 #### Manual Calculations
 
 (Add your calculation here)
