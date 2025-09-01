@@ -1,3 +1,5 @@
+# THIRUMALAIVASAN J
+# 212224060287
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
@@ -56,17 +58,22 @@ END
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| 1200h                   |1204h                     |
-|      1201h              |1205h                     |
-|      1202h              |1206h                     |
-|      1203h              | -                        |
+|-------------------------|--------------------------|
+|      1200:12              |1204 :24                    |
+|      1201 :34            |1205:68                     |
+|      1202:12              |1206:00                     |
+|      1203:34              | 1207:C4                        |
 #### Manual Calculations
+<img width="579" height="1280" alt="image" src="https://github.com/user-attachments/assets/69fdb034-211a-4888-8dcf-ae8300177983" />
 
-(Add your calculation here)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="627" height="402" alt="addprg" src="https://github.com/user-attachments/assets/adfddf54-36a1-486c-9775-3d90d2b33784" />
+<img width="629" height="388" alt="addout" src="https://github.com/user-attachments/assets/e66ff4ff-ff07-4c15-8b6e-5fc184b4ee3c" />
+
+
 
 ## 2. SUBTRACTION
 
@@ -91,16 +98,22 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|    1200:12                     |1204:00                          |
+|1201:34|1205:00|
+|1202:12|1206:00|
+|1203:34|1207:C4|
 #### Manual Calculations
 
-(Add your calculation here)
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/fe427ba6-c1d4-4ae5-b053-3cf3c6919092" />
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="626" height="398" alt="subprg" src="https://github.com/user-attachments/assets/b4df029b-1766-46aa-936d-6b4f880d6989" />
+<img width="631" height="396" alt="subout" src="https://github.com/user-attachments/assets/d27f9c78-bfae-457c-86a9-b8e098446e8f" />
 
 ## 3. MULTIPLICATION
 
@@ -140,15 +153,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+| 1200:12                       |   1204:44                       |
+|1201:34|1205:51|
+|1202:12|1206:97|
+|1203:34|1207:0A|
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/52a26bf3-1078-449d-80db-16644cbb1f0e" />
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="630" height="377" alt="mulprog" src="https://github.com/user-attachments/assets/db2c1132-67c6-4603-aaf5-026f1fa27e49" />
+<img width="628" height="386" alt="mulout" src="https://github.com/user-attachments/assets/5a3d04ae-3880-4e92-bb49-fbf88718a49f" />
 
 ## 4. DIVISION
 
@@ -185,15 +203,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|  1200:12                       |     1204:01                     |
+|1201:34|1205:00|
+|1202:12|1206:00|
+|1203:34|1207:00|
 #### Manual Calculations
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/079f5bcb-2f86-403f-a7cc-34b13e09363f" />
 
 (Add your calculation here)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="635" height="398" alt="divprog" src="https://github.com/user-attachments/assets/11826072-bebe-4912-8f50-b0cb54981269" />
+<img width="642" height="401" alt="divout" src="https://github.com/user-attachments/assets/058b45bd-9afc-4912-8dfd-1954cd072c11" />
 
 
 ## RESULT
